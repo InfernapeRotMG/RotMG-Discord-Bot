@@ -1369,4 +1369,4 @@ setTimeout(() => {
  }, cdseconds * 1000)
 });
 
-bot.login('NDQxMTcyMTQ1NTk1NDgyMTEz.Dfe0zQ.TPN1Q7Y4UGCUKIcajkYbrYTwP5c');
+bot.login('Insert Bot Token');
